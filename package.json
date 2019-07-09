@@ -1,0 +1,23 @@
+{
+  "name": "mdb-docs-and-content",
+  "version": "1.0.0",
+  "description": "Content of the mdbootstrap.com website",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattonit/mdb-docs-and-content.git"
+  },
+  "keywords": [
+    "mdbootstrap",
+    "mdb",
+    "mdbootstrap.com"
+  ],
+  "author": "MDBootstrap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattonit/mdb-docs-and-content/issues"
+  },
+  "homepage": "https://github.com/mattonit/mdb-docs-and-content#readme"
+}
