@@ -76,4 +76,5 @@ wp-content/plugins/hello.php
 # Editors
 .vscode/
 .idea/
+
 node_modules/
